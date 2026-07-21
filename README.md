@@ -1,4 +1,4 @@
-# Hi, I'm Nurul Nisa
+## Hi, I'm Nurul Nisa
 
 Cybersecurity • Machine Learning • Research
 
@@ -35,7 +35,7 @@ CTFs
 
 ## Tech
 
-Python • C++ • SQL • OpenCV • Power BI • MQTT • Wireshark • Burp Suite • Nmap
+Python • Java • SQL • OpenCV • Power BI • MQTT • Wireshark • Burp Suite • Nmap
 
 ---
 
